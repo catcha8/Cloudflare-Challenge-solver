@@ -6,7 +6,7 @@
 
 **Free demo on discord or telegram**
 
-**Discord:** [https://discord.gg/qccqwcTt9Q](https://discord.gg/qccqwcTt9Q)
+**Discord:** [https://discord.gg/nsl-solver](https://discord.gg/nsl-solver)
 
 **Telegram:** [https://t.me/NSLSolver](https://t.me/NSLSolver)
 
